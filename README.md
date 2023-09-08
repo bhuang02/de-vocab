@@ -1,4 +1,4 @@
-# hosted on: https://de-vocab.netlify.app
+Hosted on: https://de-vocab.netlify.app
 
 Quick start:
 1. Add words using the "Add to Vocab List" button
