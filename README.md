@@ -1,6 +1,8 @@
-# co5724e15ac3fb245fc2ccfa5
+# hosted on: https://de-vocab.netlify.app
 
 Quick start:
+1. Add words using the "Add to Vocab List" button
+2. Remove words by double clicking on an individual word
 
 ```
 $ npm install
